@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Soy María de los Ángeles Llerena Hernández.
+Soy María De Los Ángeles Llerena Hernández.
 
 Estudiante de Ingeniería en Software.
 
